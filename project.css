@@ -1,0 +1,445 @@
+
+.container{
+    background-image: url(Former_in_tamilnadu.jpg);
+     width: 100%;
+     height: 700px;
+    width: 100%;
+    
+}
+.first {
+       display: flex;  
+}
+ .main{ 
+    display: flex;
+   background-color: white;
+      height: 80px; 
+      width: 1080px;
+      word-spacing: 55px;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.donate{
+    background-color: orangered; 
+    margin-left: 380px;
+     border-radius: 20px;
+     height: 40px;
+      margin-top: 10px;
+}
+
+
+    a{  
+        margin-left: 20px;
+        color: black;
+        text-decoration: none;
+    }
+    .home{
+        color: black;
+    }
+  .home:hover{
+    color: red;
+  }
+   .about{
+        color: black;
+    }
+    .about:hover{
+        color: red;
+    }
+    .intent:hover{
+        color: red;
+    }
+     .intent{
+        color: black;
+    }
+    .events:hover{
+        color: red;
+    }
+     .events{
+        color: black;
+    }
+    .gallary:hover{
+        color: red;
+    
+    }
+     .gallary{
+        color: black;
+    }
+    .content:hover{
+       color: red;
+    }
+    .content{
+        color: black;
+    }
+    .para{
+        border-left: 2px solid red; 
+        word-spacing: 5px;
+    }
+    .circle{
+        color: orangered
+    }
+    .points{
+        color: black;
+    }
+    .contact{
+         margin-left: 175px;
+         margin-top: 50px; 
+         border-radius: 40px;
+         height: 50px;
+         width: 100px;
+         background-color: orangered;
+    }
+    .image3{
+        margin-left:100px;
+    }
+    .image2{
+        margin-top: -150px; 
+        margin-left: -200px;
+    }
+    .image1{
+        margin-left: -560px;
+         margin-top: -100px;
+    }
+    .initiavites{
+        font-style: italic;
+         margin-left: 650px;
+         margin-top: 25px;
+         color: red;
+    }
+    .futures{
+        margin-left: 500px;
+    }
+    .box{
+        font-family: Arial, sans-serif;
+        border-radius: 35px;
+        background-color: whitesmoke; 
+         margin: 40px auto; 
+         box-shadow: 0 0 10px rgba(0 0 0 0.1);
+         padding: 20px; 
+         width: 300px;
+         height: 220px;
+         margin-left: 50px;
+         box-shadow: 0 0 5px;
+    }
+    .care{
+        background-color: black; 
+        margin-top: 50px; 
+        height: 300px;
+    
+    }
+    .reason{
+        margin-left: 550px;
+        font-size: 50px;
+         color: white;
+    }
+    .donation1{
+        height:350px ;
+        width:390px; 
+        border-radius: 40px; 
+        margin-left: 24px;
+    
+    }
+    .up{
+        font-family: Arial, sans-serif;
+        border-radius: 35px;
+        background-color: #f2f2f2; 
+        margin: 40px auto; 
+        box-shadow: 0 0 3px;
+        padding: 20px; 
+         width: 390px;
+         height: 640px; 
+         margin-left: 8px; 
+        margin-top: -380px
+    }
+    .matter{
+        margin-top: 360px;
+        margin-left: 50px;
+    }
+    .lorem{
+        word-spacing: 10px;
+    }
+    
+    .donation2{
+        height:350px ;
+        width:400px; 
+        border-radius: 40px; 
+        margin-left: 20px;
+    }
+    .photo{display: flex;
+    }
+    
+    .donation3{
+        height:350px ;
+        width:400px; 
+        border-radius: 40px; 
+        margin-left: 20px;
+    }
+    .orange{
+        background-color: orangered;
+        margin-top: 50px;
+        height: 400px;
+    
+    }
+    .health{
+       padding-top: 80px;
+        margin-left: 80px;
+        display: flex;
+        color: white;
+    }
+    .white{
+        margin-top: 50px;
+        word-spacing: 10px;
+        font-size: 20px;
+    }
+    .wish{
+        color: white;
+        margin-left: 80px;
+        font-size: 50px;
+        margin-top: -20px;
+        
+    }
+    .one{
+        display: flex;
+    }
+    .arun{
+        border-radius: 30px;
+        background-color: white;
+        height: 55px;
+        width: 200px;
+        margin-left: 300px;
+        margin-top: 80px;
+        font-size: 20px;
+    }
+    .community{
+        color: red;
+        margin-left: 450px;
+        margin-top: 60px;
+        font-size: 20px
+    }
+    .advance{
+        font-size: 60px;
+        margin-left:390px;
+    }
+    .project{
+        margin-left: 250px;
+    }
+    .program{
+        margin-left: 250px;
+        word-spacing: 15px;
+    }
+    .program3{
+        margin-left: 80px;
+        word-spacing: 15px;
+    }
+    .project3{
+        margin-left: 80px;
+    }
+    
+    .program2{
+        margin-left: 90px;
+        word-spacing: 15px;
+    }
+    .project2{
+        margin-left: 90px;
+   
+    }
+    .firstimage{
+        color:  orangered;
+         padding-top: 80px;
+        margin-left: 580px;
+        display: flex;
+       
+    }
+    .grey{
+        background-color: darkslategray;
+        margin-top: 50px;
+        height: 600px;
+    }
+    .open{
+        color: orangered;
+        font-size: 18px;
+    }
+    .are{
+        color: white;
+        margin-left: 650px;
+        margin-top: -20px;
+        font-size: 50px;
+    }
+    .black{
+        background-color: black;
+        margin-top: -20px;
+    
+    }
+    .red{
+            display: flex;
+    }
+    .thisone{
+        color: white;
+        margin-left: 180px;
+        padding-top: 100px;
+    }
+    .mission{
+        color: white;
+        margin-left: 180px;
+        word-spacing: 10px;
+        line-height: 30px;
+    }
+    .thissecond{
+        color: white;
+        padding-top: 100px;
+        
+    }
+    .foundation{
+        color: white;
+        font-size: 19px;
+    }
+    .foundation:hover{
+        color: orangered;
+    }
+    .founder{
+        color: white;
+        font-size: 19px;
+        
+    }
+    .founder:hover{
+        color: orangered;
+    }
+    .intimating{
+        color: white;
+        font-size: 19px;
+    }
+    .intimating:hover{
+        color: orangered;
+    }
+    .going{
+        color: white;
+        font-size: 19px;
+    }
+    .going:hover{
+        color: orangered;
+    }
+    .upcoming{
+        color: white;
+        font-size: 19px;
+    }
+    .upcoming:hover{
+        color: orangered;
+    }
+    .every{
+        color: white;
+        font-size: 19px;
+    }
+    .every:hover{
+        color: orangered;
+    }
+    .thirdone{
+         color: white;
+        padding-top: 100px;
+        margin-left: 50px;
+    } 
+    .pic{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .pic:hover{
+        color: orangered;
+    }
+    .video{
+        color: white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .video:hover{
+        color: orangered;  
+     }
+     
+    .career{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .careerhover{
+        color: orangered;
+    }
+    
+    .faqs{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .faqs:hover{
+        color: orangered;
+    }
+    
+    .with{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .with:hover{
+        color: orangered;
+    }
+    
+    .nation{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .nation:hover{
+        color: orangered;
+    }
+    .fourthone{
+         color: white;
+        padding-top: 100px;
+        margin-left: 50px;
+    } 
+    .nagar{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .nagar:hover{
+        color: orangered;
+    }
+    
+    .number{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .number:hover{
+        color: orangered;
+    }
+    
+    .mail{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .mail:hover{
+        color: orangered;
+    }
+    
+    .policy{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .pollicy:hover{
+        color: orangered;
+    }
+    
+    .terms{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .terms:hover{
+        color: orangered;
+    }
+     .power{
+        color: white;
+        margin-left: 800px;
+        font-size: 25px;
+        margin-top: -20px;
+     }

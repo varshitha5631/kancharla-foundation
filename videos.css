@@ -1,0 +1,252 @@
+.container{
+    background-image: url(Former_in_tamilnadu.jpg);
+     width: 100%;
+     height: 700px;
+    width: 100%;
+    
+}
+.first{
+       display: flex;
+         
+}
+.main{
+    display: flex;
+   background-color: white;
+      height: 80px; 
+      width: 1080px;
+      word-spacing: 55px;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.donate{
+    background-color: orangered; 
+    margin-left: 380px;
+     border-radius: 20px;
+     height: 40px;
+      margin-top: 10px;
+}
+
+
+    a{  
+        margin-left: 20px;
+        color: black;
+        text-decoration: none;
+    }
+home{
+        color: black;
+    }
+  .home:hover{
+    color: red;
+  }
+   .about{
+        color: black;
+    }
+    .about:hover{
+        color: red;
+    }
+    .intent:hover{
+        color: red;
+    }
+     .intent{
+        color: black;
+    }
+    .events:hover{
+        color: red;
+    }
+     .events{
+        color: black;
+    }
+    .gallary:hover{
+        color: red;
+    
+    }
+     .gallary{
+        color: black;
+    }
+    .content:hover{
+       color: red;
+    }
+    .content{
+        color: black;
+    }
+    
+    .black{
+        background-color: black;
+        margin-top: -20px;
+       margin-top: 200px;
+    }
+    .red{
+            display: flex;
+    }
+    .thisone{
+        color: white;
+        margin-left: 180px;
+        padding-top: 100px;
+    }
+    .mission{
+        color: white;
+        margin-left: 180px;
+        word-spacing: 10px;
+        line-height: 30px;
+    }
+    .thissecond{
+        color: white;
+        padding-top: 100px;
+        
+    }
+    .foundation{
+        color: white;
+        font-size: 19px;
+    }
+    .foundation:hover{
+        color: orangered;
+    }
+    .founder{
+        color: white;
+        font-size: 19px;
+        
+    }
+    .founder:hover{
+        color: orangered;
+    }
+    .intimating{
+        color: white;
+        font-size: 19px;
+    }
+    .intimating:hover{
+        color: orangered;
+    }
+    .going{
+        color: white;
+        font-size: 19px;
+    }
+    .going:hover{
+        color: orangered;
+    }
+    .upcoming{
+        color: white;
+        font-size: 19px;
+    }
+    .upcoming:hover{
+        color: orangered;
+    }
+    .every{
+        color: white;
+        font-size: 19px;
+    }
+    .every:hover{
+        color: orangered;
+    }
+    .thirdone{
+         color: white;
+        padding-top: 100px;
+        margin-left: 50px;
+    } 
+    .pic{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .pic:hover{
+        color: orangered;
+    }
+    .video{
+        color: white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .video:hover{
+        color: orangered;  
+     }
+     
+    .career{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .careerhover{
+        color: orangered;
+    }
+    
+    .faqs{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .faqs:hover{
+        color: orangered;
+    }
+    
+    .with{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .with:hover{
+        color: orangered;
+    }
+    
+    .nation{
+        color:  white;
+        margin-left: 50px;
+        font-size: 19px;
+    }
+    .nation:hover{
+        color: orangered;
+    }
+    .fourthone{
+         color: white;
+        padding-top: 100px;
+        margin-left: 50px;
+    } 
+    .nagar{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .nagar:hover{
+        color: orangered;
+    }
+    
+    .number{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .number:hover{
+        color: orangered;
+    }
+    
+    .mail{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .mail:hover{
+        color: orangered;
+    }
+    
+    .policy{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .pollicy:hover{
+        color: orangered;
+    }
+    
+    .terms{
+        color: white;
+        margin-left: 40px;
+        font-size: 19px;
+    }
+    .terms:hover{
+        color: orangered;
+    }
+     .power{
+        color: white;
+        margin-left: 800px;
+        font-size: 25px;
+        margin-top: -20px;
+     }
