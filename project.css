@@ -88,10 +88,10 @@
          width: 100px;
          background-color: orangered;
     }
-.contact:hover{
-      color:white;
-      background-color:black;
-}
+    .contact:hover{
+        color:white;
+        background-color:black;
+        }
     .image3{
         margin-left:100px;
     }
@@ -448,3 +448,4 @@
         margin-top: -20px;
 
      }
+
